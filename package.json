@@ -1,5 +1,5 @@
 {
-  "name": "gijiroku-bolt-app",
+  "name": "voice-transcriber-app",
   "version": "1.0.0",
   "scripts": {
     "build": "tsc",
